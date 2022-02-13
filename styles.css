@@ -1,0 +1,14 @@
+#main{
+  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F466511%2Fman-working-at-a-computer_gettyimages-650066898.jpg&f=1&nofb=1');
+  background-size: cover;
+}
+
+img{
+  width:40px;
+}
+.right{
+  padding-left: 40px;
+}
+*{
+  color:white;
+}
